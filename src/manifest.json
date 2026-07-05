@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "AI Browser Plugin Demo",
+  "version": "0.1.0",
+  "description": "Mock browser plugin for contribution preview"
+}
